@@ -6,10 +6,10 @@ import datetime
 import schedule
 import threading
 import time
-#  Hello !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 bot = TeleBot('7420715170:AAFQhpQFvdYi4fTdZULCSKilYH22vsd6dFo')
 API = '008c3f86611c8333d260684d8c4fe8c4'
-city = 'Sevastopol'
+city = 'Kerch'
 file = load_workbook(filename='iit_23_b_o28.05.xlsx')
 day = datetime.date.today()
 today = day.strftime("%d.%m.%Y")
