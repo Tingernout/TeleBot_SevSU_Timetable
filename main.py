@@ -6,7 +6,7 @@ import datetime
 import schedule
 import threading
 import time
-
+#  Hello !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 bot = TeleBot('7420715170:AAFQhpQFvdYi4fTdZULCSKilYH22vsd6dFo')
 API = '008c3f86611c8333d260684d8c4fe8c4'
 city = 'Sevastopol'
